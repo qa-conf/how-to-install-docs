@@ -5,3 +5,4 @@ Repositorio con las guias de instalación para frameworks de automatizacion, des
 - [Guia Instalación Appium](Guia-Appium.md)
 - [Guia Instalación JDK](Guia-JDK.md)
 - [Guia Instalación Gradle](Guia-Gradle.md)
+- [Troubleshooting](Troubleshooting.md)

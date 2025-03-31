@@ -128,3 +128,27 @@ Abre Appium Inspector en el navegador [https://inspector.appiumpro.com/](https:/
 Vista Previa
 
 [![https://iili.io/3ThPF8g.png](https://iili.io/3ThPF8g.png "https://iili.io/3ThPF8g.png")](https://iili.io/3ThPF8g.png "https://iili.io/3ThPF8g.png")
+
+---
+
+## Instalar Herramientas Adicionales en MacOS para Appium
+
+Instala las siguientes herramientas
+
+```sh
+appium driver install xcuitest
+
+```
+
+Instala linea de comandos de Xcode
+
+```sh
+xcode-select --install
+```
+
+
+Verifica la lista de herramientas instaladas con 
+
+```sh
+appium driver list --installed
+```
